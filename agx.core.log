@@ -2,7 +2,7 @@ config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/devsr
 config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/local/lib/python2.7/site-packages/zope/component/meta.zcml
 config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/devsrc/agx.core/src/agx/core/meta.zcml
 main       INFO  AGX 3.0-dev - (c) BlueDynamics Alliance, http://bluedynamics.com, GPL 2
-main       INFO  Generator started at 14:22:09 2013-04-09.
+main       INFO  Generator started at 14:33:23 2013-04-09.
 main       INFO  generating model: /home/christoph/Code/test_AGX_from_source/agx.dev/p4/model.uml
 main       INFO  using profiles: ['/home/christoph/Code/test_AGX_from_source/agx.dev/devsrc/agx.generator.pyegg/src/agx/generator/pyegg/profiles/pyegg.profile.uml', '/home/christoph/Code/test_AGX_from_source/agx.dev/devsrc/agx.generator.pyramid/src/agx/generator/pyramid/profiles/pyramid.profile.uml']
 main       INFO  generating into: /home/christoph/Code/test_AGX_from_source/agx.dev/p4
@@ -20,4 +20,4 @@ config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/devsr
 config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/devsrc/node.ext.xmi/src/node/ext/xmi/configure.zcml
 config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/devsrc/node.ext.xml/src/node/ext/xml/configure.zcml
 config     DEBUG include /home/christoph/Code/test_AGX_from_source/agx.dev/devsrc/agx.generator.pyramid/src/agx/generator/pyramid/configure.zcml
-main       INFO  Generator run took 5.59 sec.
+main       INFO  Generator run took 5.61 sec.
