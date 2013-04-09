@@ -28,4 +28,5 @@
   <pyegg:autoimport xmi:id="_Uz2gkJVWEeKiprBeZA9sgQ" base_Package="_2FtoAJVEEeKiprBeZA9sgQ"/>
   <pyramid:configuration xmi:id="_-vqS0JVkEeKiprBeZA9sgQ" base_Package="_0vR-MFyQEeG1mLF7jMwarw"/>
   <pyramid:config_scan xmi:id="_dx3moJVlEeKiprBeZA9sgQ" base_Package="_2FtoAJVEEeKiprBeZA9sgQ"/>
+  <pyramid:buildout xmi:id="_UFwcMKEiEeKqQ4CvEkQ5mQ" base_Package="_0vR-MFyQEeG1mLF7jMwarw"/>
 </xmi:XMI>
