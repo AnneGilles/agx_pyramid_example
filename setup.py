@@ -31,6 +31,8 @@ setup(name="pyramidonal",
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'pyramid',
+          'waitress',
           ##code-section dependencies
           ##/code-section dependencies
       ],
@@ -40,7 +42,8 @@ setup(name="pyramidonal",
       ),
       entry_points="""
       ##code-section entry_points
-      
+      [paste.app_factory]
+      main = pyramidonal:main
       ##/code-section entry_points
       """,
       ##code-section additionals
