@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:pyegg="http:///schemas/pyegg/_FjJE0HtmEeKvC-Xbutnx2A/28" xmlns:pyramid="http:///schemas/pyramid/_Ez1fYJTvEeKlf65yjIehdg/8" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xsi:schemaLocation="http:///schemas/pyegg/_FjJE0HtmEeKvC-Xbutnx2A/28 uml_profiles/pyegg.profile.uml#_FjJr4HtmEeKvC-Xbutnx2A http:///schemas/pyramid/_Ez1fYJTvEeKlf65yjIehdg/8 uml_profiles/pyramid.profile.uml#_Ez2GcJTvEeKlf65yjIehdg">
+<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:pyegg="http:///schemas/pyegg/_FjJE0HtmEeKvC-Xbutnx2A/28" xmlns:pyramid="http:///schemas/pyramid/_wY5nEJdxEeKlf65yjIehdg/17" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xsi:schemaLocation="http:///schemas/pyegg/_FjJE0HtmEeKvC-Xbutnx2A/28 uml_profiles/pyegg.profile.uml#_FjJr4HtmEeKvC-Xbutnx2A http:///schemas/pyramid/_wY5nEJdxEeKlf65yjIehdg/17 uml_profiles/pyramid.profile.uml#_wY6OIJdxEeKlf65yjIehdg">
   <uml:Model xmi:id="_rxHwYFyQEeG1mLF7jMwarw" name="model">
     <packagedElement xmi:type="uml:Package" xmi:id="_0vR-MFyQEeG1mLF7jMwarw" name="pyramidonal">
       <packagedElement xmi:type="uml:Package" xmi:id="_NDQ9cJPHEeKlf65yjIehdg" name="static_resources"/>
@@ -8,7 +8,7 @@
       </packagedElement>
       <profileApplication xmi:id="_nuwlIJPGEeKlf65yjIehdg">
         <eAnnotations xmi:id="_nvPGQJPGEeKlf65yjIehdg" source="http://www.eclipse.org/uml2/2.0.0/UML">
-          <references xmi:type="ecore:EPackage" href="uml_profiles/pyramid.profile.uml#_Ez2GcJTvEeKlf65yjIehdg"/>
+          <references xmi:type="ecore:EPackage" href="uml_profiles/pyramid.profile.uml#_wY6OIJdxEeKlf65yjIehdg"/>
         </eAnnotations>
         <appliedProfile href="uml_profiles/pyramid.profile.uml#_29Xa4FwvEeK2OIPViOliQA"/>
       </profileApplication>
