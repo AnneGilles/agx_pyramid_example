@@ -9,3 +9,5 @@ echo "run the buildout..."
 bin/buildout
 echo "run setup. this will pull in many required packages (see requires in setup.py)"
 bin/python setup.py develop
+echo "make the app serve with settings from development.ini (port 8080, change if needed)"
+bin/pserve development.ini
